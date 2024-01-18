@@ -1,0 +1,6 @@
+.env
+.venv
+.idea
+.streamlit
+.DS_Store
+*/.DS_Store
